@@ -1,0 +1,15 @@
+.one{
+    border:2px solid red;
+    width:200px;
+    height:100px;
+
+}
+
+
+.two{
+border:2px solid red;
+width:200px;
+height:100px;
+padding: 40px;
+box-sizing: border-box;
+}
